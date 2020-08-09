@@ -1,5 +1,7 @@
 # first-app-with-streamlit
+
 =============
+
 Beginner workshop on data visualization with Streamlit.
 
 Table of Contents
