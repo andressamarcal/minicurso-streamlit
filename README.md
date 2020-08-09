@@ -4,28 +4,32 @@
 
 Beginner workshop on data visualization with Streamlit.
 
-----------------------
-        Project
-----------------------
+--------------------------------------------
+        First App with Streamlit 
+--------------------------------------------
 
 
 
-
-Install & Setup
----------------
+-------------------------------------
+           Install & Setup
+-------------------------------------
 
 > python >= 3.6
+
 > pip
+
 > pip install streamlit
 
-Usage
------
+
+--------------------------------------------
+                Usage
+--------------------------------------------
 
 Place code examples here and other ways to use this project/pipeline.
 
 
-
-Authors
--------
+---------------------------------------------------
+                Authors
+---------------------------------------------------
 
 * Andressa Marçal | [@andressamarcal](https://github.com/andressamarcal)
