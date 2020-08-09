@@ -27,8 +27,7 @@ Beginner workshop on data visualization with Streamlit.
                 Usage
 --------------------------------------------
 
-Place code examples here and other ways to use this project/pipeline.
-
+> streanlit run app.py
 
 ---------------------------------------------------
                 Authors
