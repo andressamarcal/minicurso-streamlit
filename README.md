@@ -27,7 +27,7 @@ Beginner workshop on data visualization with Streamlit.
                 Usage
 --------------------------------------------
 
-> streanlit run app.py
+> streamlit run app.py
 
 ---------------------------------------------------
                 Authors
